@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C0813AB3-46B9-4EF7-992F-8ECB9C3D29BD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GameLiveStreaming</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1312e44b-b4d3-4876-b4eb-e59dd0da9bb8</key>
+		<string>svn://10.8.154.240/ourCode</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GameLiveStreaming/GameLiveStreaming.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1312e44b-b4d3-4876-b4eb-e59dd0da9bb8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1312e44b-b4d3-4876-b4eb-e59dd0da9bb8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1312e44b-b4d3-4876-b4eb-e59dd0da9bb8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ourCode</string>
+		</dict>
+	</array>
+</dict>
+</plist>
